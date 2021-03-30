@@ -16,3 +16,28 @@ body{
     background-size: cover;
 }
 
+#display { 
+    visibility: hidden;
+} 
+
+
+h2 {
+    text-align: center;
+    color: aqua;
+    margin-top: 50px;
+}
+
+.team {
+    column-count: 3;
+}
+
+#submit {
+    background-color: #1E5EB3;
+    border: none;
+    color: white;
+    padding: 3px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
